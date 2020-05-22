@@ -22,7 +22,7 @@ require('dotenv').config({ path: 'variables.env' })
 
 // Importando los modelos
 require('./models/Proyectos');
-require('./models/Tareas');
+require('./models/tareas');
 require('./models/Usuarios');
 
 
