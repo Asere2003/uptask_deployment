@@ -1,5 +1,5 @@
 //Nos traemos una instancia del orm que se va a autilizar
-const Sequelize = require('Sequelize');
+const Sequelize = require('sequelize');
 
 //Para generar id unicos y añadirselos a las url
 const  shortid = require('shortid');
