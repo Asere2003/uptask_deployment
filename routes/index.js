@@ -10,7 +10,7 @@ const {body} = require('express-validator/check');
 const proyectosController = require('../controllers/proyectoControllers');
 
 //Importamos los controladores de las tareas
-const tareasControllers = require('../controllers/tareascontrollers');
+const tareasControllers = require('../controllers/tareasControllers');
 
 //Importamos los controladores de los usuarios
 const usuariosControllers = require('../controllers/usuariosControllers');
