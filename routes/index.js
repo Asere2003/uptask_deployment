@@ -13,7 +13,7 @@ const proyectosController = require('../controllers/proyectoControllers');
 const tareasControllers = require('../controllers/tareasControllers');
 
 //Importamos los controladores de los usuarios
-const usuariosControllers = require('../controllers/usuariosControllers');
+const usuariosControllers = require('../controllers/usuarioscontrollers');
 
 //Importamos el controlador de iniciar sesión
 const authControllers = require('../controllers/authControllers');
